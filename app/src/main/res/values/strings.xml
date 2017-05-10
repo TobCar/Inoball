@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Inoball</string>
+    <string name="high_score">High Score</string>
+</resources>
